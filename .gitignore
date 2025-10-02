@@ -1,6 +1,2 @@
-.obsidian/workspace*
-.obsidian/hotkeys.json
-.obsidian/appearance.json
-.obsidian/graph.json
+.obsidian/
 .DS_Store
-EOF
