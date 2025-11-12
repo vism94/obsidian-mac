@@ -1,0 +1,16 @@
+host: 
+```
+ocserv.rtdlab.cloud
+```
+proxy: 
+```
+89.169.160.234
+```
+login: 
+```
+v.ismailov
+```
+pass: 
+```
+NTbcFWd6i9IOOFzG
+```
